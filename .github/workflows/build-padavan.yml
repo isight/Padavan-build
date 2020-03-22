@@ -1,4 +1,4 @@
-name: Build Padavan
+name: Build D1
 
 on: 
   release:
